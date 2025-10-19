@@ -19,16 +19,16 @@
 </span>
   
 <p align="center">
-  <!--<img src="https://badges.pufler.dev/repos/Tuan2210" alt="Tuan2210's repos">-->
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan2210&exclude_repo=github-readme-stats,tuan2210.github.io" />-->
+  <!--<img src="https://badges.pufler.dev/repos/Tuan1O2" alt="Tuan1O2's repos">-->
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan1O2&exclude_repo=github-readme-stats,tuan1O2.github.io" />-->
   
-  <img src="https://komarev.com/ghpvc/?username=tuan2210&color=red&style=plastic">
+  <img src="https://komarev.com/ghpvc/?username=tuan1O2&color=red&style=plastic">
   <p align="center">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Tuan2210?style=social">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Tuan1O2?style=social">
   </p>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuan2210&theme=radical" alt="tuan2210" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuan1O2&theme=radical" alt="tuan1O2" /></a> </p>
 
 - 📄 My <a href="https://portfolio-dinh-quang-tuan.onrender.com/">portfolio</a>
 
@@ -51,7 +51,7 @@
   <a href="https://www.messenger.com" alt="Messenger">
     <img src="https://img.icons8.com/nolan/50/facebook-messenger.png"/>
   </a> 
-  <a href="https://github.com/Tuan2210" alt="Github">
+  <a href="https://github.com/Tuan1O2" alt="Github">
     <img src="https://img.icons8.com/nolan/50/github.png"/>
   </a> 
   <a href="https://mail.google.com/mail/u/0/#inbox" alt="Email">
@@ -68,7 +68,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://dev.to/tuan2210" alt="DevTo">
+  <a href="https://dev.to/tuan1O2" alt="DevTo">
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width="55px" height="55px"/>
   </a>
   <a href="https://www.freecodecamp.org/TuanDinh" alt="FreeCodeCamp">
@@ -192,8 +192,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuan2210&theme=radical&show_icons=true&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&disable_animations=false" alt="tuan2210_top-langs" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tuan2210&theme=radical&show_icons=true&disable_animations=false" alt="tuan2210_github-stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuan1O2&theme=radical&show_icons=true&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&disable_animations=false" alt="tuan1O2_top-langs" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tuan1O2&theme=radical&show_icons=true&disable_animations=false" alt="tuan1O2_github-stats" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -201,7 +201,7 @@
         <!--error <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="" width="100%"/> -->
         <img src="https://blog.joypixels.com/content/images/2020/09/snake-1.gif" alt="snake-gif" />
       </p>
-        <!-- error fetching <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuan2210&theme=radical&disable_animations=false" alt="tuan2210"/></p> -->
+        <!-- error fetching <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuan1O2&theme=radical&disable_animations=false" alt="tuan1O2"/></p> -->
     </td>
   </tr>
 </table>
